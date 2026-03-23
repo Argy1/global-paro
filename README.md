@@ -1,6 +1,6 @@
 # Global PARO — Technical Documentation
 
-**Live URL:** https://globalparo.lovable.app  
+**Live URL:** https://globalparo.lovable.app   
 **Platform:** Lovable (React + Supabase)
 
 ---
@@ -384,5 +384,6 @@ The `/docs` page provides a Swagger-style UI for:
 ---
 
 *Generated and maintained by the Lovable AI editor.*
-#   g l o b a l - p a r o  
+#   g l o b a l - p a r o 
+ 
  
